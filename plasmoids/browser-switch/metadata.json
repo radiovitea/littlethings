@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Viktor"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Выбор браузера по умолчанию из всех установленных",
+        "Description[en]": "Pick the default web browser from all installed browsers",
+        "Icon": "internet-web-browser",
+        "Id": "org.viktor.browserswitch",
+        "License": "MIT",
+        "Name": "Браузер по умолчанию",
+        "Name[en]": "Browser Switch",
+        "Version": "2.0",
+        "Website": "https://github.com/radiovitea/littlethings"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
