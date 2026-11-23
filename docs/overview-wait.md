@@ -18,21 +18,13 @@
 
 ## Установка
 
-**Весь репозиторий** (вместе с этим скриптом поставятся и остальные твики):
-```
-git clone https://github.com/radiovitea/littlethings.git
-cd littlethings
-./install.sh
-```
-
-**Только этот скрипт:**
 ```
 mkdir -p ~/.local/bin
 curl -o ~/.local/bin/overview-wait.sh https://raw.githubusercontent.com/radiovitea/littlethings/main/bin/overview-wait.sh
 chmod +x ~/.local/bin/overview-wait.sh
 ```
 
-В обоих случаях скрипт окажется в `~/.local/bin/overview-wait.sh`. Проверь его: запусти эту команду в терминале. «Обзор» должен открыться и остаться открытым.
+Скрипт окажется в `~/.local/bin/overview-wait.sh`. Проверь его: запусти эту команду в терминале. «Обзор» должен открыться и остаться открытым.
 
 ## Назначь Meta+W
 
